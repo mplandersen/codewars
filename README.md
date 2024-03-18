@@ -1,8 +1,7 @@
 # Codewars Daily Python Challenge
 
 ## Overview
-Inspired by [Diliano](https://github.com/Diliano)
-A repository containing a collection of [Codewars](https://www.codewars.com/) challenge solutions.
+Inspired by [Diliano](https://github.com/Diliano). A repository containing a collection of [Codewars](https://www.codewars.com/) challenge solutions.
 
 ## Structure
 - Each programming language has its own dedicated folder (e.g., 'Python')
